@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sign-frontend/static/css/main.426db317.css",
+    "main.js": "/sign-frontend/static/js/main.8e3cb0d9.js",
+    "index.html": "/sign-frontend/index.html",
+    "main.426db317.css.map": "/sign-frontend/static/css/main.426db317.css.map",
+    "main.8e3cb0d9.js.map": "/sign-frontend/static/js/main.8e3cb0d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426db317.css",
+    "static/js/main.8e3cb0d9.js"
+  ]
+}
